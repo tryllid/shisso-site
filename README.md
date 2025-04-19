@@ -1,0 +1,2 @@
+# shisso-site
+Static website
